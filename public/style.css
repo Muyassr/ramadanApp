@@ -1,0 +1,28 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Cairo', sans-serif;
+    direction: rtl;
+}
+
+.group {
+    padding: 10px;
+}
+
+.header__date {
+    display: flex;
+}
+
+.date__icon {
+    margin-left: 5px;
+}
+
+.header__wrd {
+    margin: 0;
+    margin-right: 20px;
+}
+
+.group__card {
+    background: linear-gradient(106deg, rgba(188,224,253,1) 0%, rgba(38,153,251,1) 35%);
+    border-radius: 4px;
+    padding: 12px 8px;
+}
